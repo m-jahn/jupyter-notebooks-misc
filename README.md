@@ -4,12 +4,12 @@
 
 Jupyter notebooks for various unconnected projects.
 
-Notebooks are only intended for private use and often contain examples from other open-source resources such as tutorials.
+Notebooks are only intended for private use and often contain examples from other open-source resources.
 
 ### Notebooks
 
-- `python_cheat_sheet.ipynb` - comparison of R and python features and cheat sheet for useful python functions
-- `plot_iris_svc.ipynb` - example of support vector machine for classification problem with `iris` data set (from )
+- [`python_cheat_sheet.ipynb`](https://github.com/m-jahn/jupyter-notebooks-misc/blob/main/notebooks/python_cheat_sheet.ipynb) - comparison of R and python features and cheat sheet for useful python functions
+- [`python_for_biologists.ipynb`](https://github.com/m-jahn/jupyter-notebooks-misc/blob/main/notebooks/python_for_biologists.ipynb) - exercises from the tutorial book [Python for Biologists](https://pythonforbiologists.com/)
 
 ### How-to
 
